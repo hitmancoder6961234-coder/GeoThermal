@@ -1,2 +1,14 @@
-skills/
+.next/
 node_modules/
+db/*.db
+db/*.db-journal
+*.log
+.zscripts/
+download/
+.env
+.agent-browser/
+skills/
+examples/
+mini-services/
+worklog.md
+website_content.json
